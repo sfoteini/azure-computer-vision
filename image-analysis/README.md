@@ -6,7 +6,7 @@
   <a href="https://www.foteinisavvidou.codes/analyze-images-with-azure-computer-vision/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
   <a href="image-analysis-demo.ipynb" target="_blank"><img src="https://img.shields.io/badge/Notebook-critical?style=for-the-badge" alt="Source code"></a>
   <a href="images" target="_blank"><img src="https://img.shields.io/badge/Images-yellow?style=for-the-badge" alt="Images"></a>
-  <a href="https://github.com/sfoteini/sketchnotes/blob/main/computer-vision-image-analysis.png?raw=true" target="_blank"><img src="https://img.shields.io/badge/Sketch note-blueviolet?style=for-the-badge" alt="Sketch note: Image Analysis Overview"></a>
+  <a href="https://github.com/sfoteini/sketchnotes/blob/main/computer-vision-image-analysis.png?raw=true" target="_blank"><img src="https://img.shields.io/badge/Sketch note-yellowgreen?style=for-the-badge" alt="Sketch note: Image Analysis Overview"></a>
 </p>
 
 In this article, we will explore the pre-trained models of Azure Computer Vision service for image analysis. 
