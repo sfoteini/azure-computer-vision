@@ -1,9 +1,9 @@
-![Header image](https://foteinisavvidou.azurewebsites.net/wp-content/uploads/2021/09/computer-vision-read_header.png)
+![Header image](https://sfoteini.github.io/images/post/digitize-your-notes-with-azure-computer-vision-read-api/computer-vision-read_header_hu6524d0f868ed645e5ca39b4852912e3c_128073_1110x0_resize_q95_h2_box_3.webp)
 
 # Digitize your notes with the Azure Computer Vision READ API
 
 <p>
-  <a href="https://foteinisavvidou.azurewebsites.net/digitize-your-notes-with-azure-computer-vision-read-api/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://sfoteini.github.io/blog/digitize-your-notes-with-azure-computer-vision-read-api/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
   <a href="ocr-demo.ipynb" target="_blank"><img src="https://img.shields.io/badge/Notebook-critical?style=for-the-badge" alt="Source code"></a>
   <a href="images" target="_blank"><img src="https://img.shields.io/badge/Images-yellow?style=for-the-badge" alt="Images"></a>
   <a href="https://github.com/sfoteini/sketchnotes/blob/main/computer-vision-ocr.png?raw=true" target="_blank"><img src="https://img.shields.io/badge/Sketch note-yellowgreen?style=for-the-badge" alt="Sketch note: Image Analysis Overview"></a>
@@ -17,5 +17,5 @@ In this article, we will explore the pre-trained models of Azure Computer Vision
 <br>
 <br>
 <p align="center">
-  <em>Originally published at <a href="https://foteinisavvidou.azurewebsites.net/" target="_blank">foteinisavvidou.azurewebsites.net</a></em>
+  <em>Originally published at <a href="https://sfoteini.github.io/" target="_blank">sfoteini.github.io</a></em>
 </p>
