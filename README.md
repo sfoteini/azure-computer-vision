@@ -2,6 +2,16 @@
 
 Image analysis projects with Azure Computer Vision (Source code and tutorials)
 
+## Explore Azure Computer Vision 4.0 (Florence model)
+<p>
+  <a href="https://sfoteini.github.io/blog/explore-azure-computer-vision-4-florence-model/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="/image-analysis-4.0/main.py" target="_blank"><img src="https://img.shields.io/badge/Source code-critical?style=for-the-badge" alt="Source code"></a>
+</p>
+
+In this post, you will explore the latest features of Azure Computer Vision and create a basic image analysis app.
+
+<br>
+
 ## Analyze images with Azure Computer Vision
 <p>
   <a href="https://sfoteini.github.io/blog/analyze-images-with-azure-computer-vision/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
