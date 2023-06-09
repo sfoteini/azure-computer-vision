@@ -22,6 +22,8 @@ In this post, you will explore the latest features of Azure Computer Vision and 
 
 In this article, we will learn how to use the pre-trained models of Azure Computer Vision service for image analysis.
 
+> This article refers to a previous version of the Azure Computer Vision service. Check out the [latest blog post](#explore-azure-computer-vision-40-florence-model).
+
 <br>
 
 ## Digitize your notes with the Azure Computer Vision READ API
@@ -33,5 +35,7 @@ In this article, we will learn how to use the pre-trained models of Azure Comput
 </p>
 
 In this article, you will use the Azure Computer Vision READ API to convert your handwritten notes into digital documents.
+
+> This article refers to a previous version of the Azure Computer Vision service. Check out the [latest blog post](#explore-azure-computer-vision-40-florence-model).
 
 <br>
