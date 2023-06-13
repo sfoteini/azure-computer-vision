@@ -1,3 +1,5 @@
+> This article refers to a previous version of the Azure Computer Vision service. Check out the [latest blog post](https://github.com/sfoteini/azure-computer-vision/tree/main/image-analysis-4.0).
+
 ![Header image](https://sfoteini.github.io/images/post/analyze-images-with-azure-computer-vision/computer-vision_header_hueb673cccadfe00db8cc0f7e87fc01864_128555_1110x0_resize_q95_h2_box_3.webp)
 
 # Analyze images with Azure Computer Vision
