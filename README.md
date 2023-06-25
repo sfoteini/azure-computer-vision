@@ -12,6 +12,16 @@ In this post, you will explore the latest features of Azure Computer Vision and 
 
 <br>
 
+## Extract text from images with Azure Computer Vision 4.0 Read OCR
+<p>
+  <a href="https://sfoteini.github.io/blog/extract-text-from-images-with-azure-computer-vision-4-read-ocr/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="/computer-vision-4.0-ocr/main.py" target="_blank"><img src="https://img.shields.io/badge/Source code-critical?style=for-the-badge" alt="Source code"></a>
+</p>
+
+This post will take you through the newest Read OCR API of Azure Computer Vision, which is used for extracting text from images.
+
+<br>
+
 ## Analyze images with Azure Computer Vision
 <p>
   <a href="https://sfoteini.github.io/blog/analyze-images-with-azure-computer-vision/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
@@ -36,6 +46,6 @@ In this article, we will learn how to use the pre-trained models of Azure Comput
 
 In this article, you will use the Azure Computer Vision READ API to convert your handwritten notes into digital documents.
 
-> This article refers to a previous version of the Azure Computer Vision service. Check out the [latest blog post](#explore-azure-computer-vision-40-florence-model).
+> This article refers to a previous version of the Azure Computer Vision service. Check out the [latest blog post](#extract-text-from-images-with-azure-computer-vision-40-read-ocr).
 
 <br>

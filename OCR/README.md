@@ -1,4 +1,4 @@
-> This article refers to a previous version of the Azure Computer Vision service. Check out the [latest blog post](https://github.com/sfoteini/azure-computer-vision/tree/main/image-analysis-4.0).
+> This article refers to a previous version of the Azure Computer Vision service. Check out the [latest blog post](https://github.com/sfoteini/azure-computer-vision/tree/main/computer-vision-4.0-ocr).
 
 ![Header image](https://sfoteini.github.io/images/post/digitize-your-notes-with-azure-computer-vision-read-api/computer-vision-read_header_hu6524d0f868ed645e5ca39b4852912e3c_128073_1110x0_resize_q95_h2_box_3.webp)
 
